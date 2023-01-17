@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
-    <link rel="shortcut icon" type="image" href="./image/mylogo-removebg-preview.png">
+    <link rel="shortcut icon" type="image" href="./mylogo-removebg-preview.png">
     <link rel="stylesheet" href="style.css">
     <!-- bootstrap links -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -71,7 +71,7 @@
             <button id="btn1" onclick="window.location.href='#contact';">HIRE ME</button>
         </div>
         <div class="img">
-            <img src="./image/AOTEM.jpg" alt="">
+            <img src="./AOTEM.jpg" alt="">
         </div>
     </section>
     <!-- home content -->
@@ -86,7 +86,7 @@
             <div class="row">
                 <div class="col-md-4 py-3 py-md-0">
                     <div class="card">
-                        <img src="./image/bg.png" alt="">
+                        <img src="./bg.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-8 py-3 py-md-0">
@@ -226,30 +226,30 @@
             <p class="text-center">Here are some of the projects I've worked on. Check them out on Github.</p>
             <div class="row" style="margin-top: 30px;">
                 <div class="col-md-4 py-3 py-md-0">
-                    <div class="card"><img src="./image/project_one.jpeg" alt=""></div>
+                    <div class="card"><img src="./project_one.jpeg" alt=""></div>
                     <p style="margin-top: 8px;"><a href="https://github.com/Oluwatemmy/Buzz-Bite" class="pr-link">Github Link</a></p>
                 </div>
                 <div class="col-md-4 py-3 py-md-0">
-                    <div class="card"><img src="./image/pr1.jpeg" alt=""></div>
+                    <div class="card"><img src="./pr1.jpeg" alt=""></div>
                     <p style="margin-top: 8px;"><a href="https://github.com/Oluwatemmy/Portfolio" class="pr-link">Github Link</a></p>
                 </div>
                 <div class="col-md-4 py-3 py-md-0">
-                    <div class="card"><img src="./image/project_three.png" alt=""></div>
+                    <div class="card"><img src="./project_three.png" alt=""></div>
                     <p style="margin-top: 8px;"><a href="https://github.com/Oluwatemmy/Tic-Tac-Toe" class="pr-link">Github Link</a></p>
                 </div>
             </div>
 
             <div class="row" style="margin-top: 30px;">
                 <div class="col-md-4 py-3 py-md-0">
-                    <div class="card"><img src="./image/project_four.png" alt=""></div>
+                    <div class="card"><img src="./project_four.png" alt=""></div>
                     <p style="margin-top: 8px;"><a href="https://github.com/Oluwatemmy/Blackjack" class="pr-link">Github Link</a></p>
                 </div>
                 <div class="col-md-4 py-3 py-md-0">
-                    <div class="card"><img src="./image/project_five.jpeg" alt=""></div>
+                    <div class="card"><img src="./project_five.jpeg" alt=""></div>
                     <p style="margin-top: 8px;"><a href="https://github.com/Oluwatemmy/Phonie" class="pr-link">Github Link</a></p>
                 </div>
                 <div class="col-md-4 py-3 py-md-0">
-                    <div class="card"><img src="./image/laptop.png" alt=""></div>
+                    <div class="card"><img src="./laptop.png" alt=""></div>
                     <p style="margin-top: 8px;"><a href="https://github.com/Oluwatemmy" class="pr-link">Github Link</a></p>
                 </div>
             </div>
