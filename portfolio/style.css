@@ -360,7 +360,19 @@
 
 @media screen and (max-width: 767px) {
     #resume{
-        height: 130vh;
+        height: 137vh;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    #resume{
+        height: 140vh;
+    }
+}
+
+@media screen and (max-width: 324px) {
+    #resume{
+        height: 200vh;
     }
 }
 
