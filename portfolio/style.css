@@ -405,20 +405,20 @@
 
 @media screen and (max-width: 770px) {
     #portfolio {
-        height: 250vh;
+        height: 265vh;
     }
 
 }
 
 @media screen and (max-width: 460px) {
     #portfolio {
-        height: 200vh;
+        height: 2150vh;
     }
 }
 
 @media screen and (max-width: 380px) {
     #portfolio {
-        height: 210vh;
+        height: 225vh;
     }
 }
 
