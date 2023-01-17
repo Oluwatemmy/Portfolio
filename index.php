@@ -1,7 +1,4 @@
-<?php include_once("portfolio/index.html"); ?>
+<?php include_once("portfolio/index.php"); ?>
 <style>
     <?php include 'portfolio/style.css'; ?>
-    <?php include 'portfolio/AOTEM.jpg'; ?>
-    <?php include 'portfolio/bg.png'; ?>
-    <?php include 'portfolio/mylogo-removebg-preview.png'; ?>
 </style>
