@@ -173,7 +173,7 @@
 
 @media screen and (max-width:360px) {
     .home-section {
-        height: 110vh;
+        height: 150vh;
     }
 }
 
@@ -259,6 +259,12 @@
         height: 230vh;
     }
 }
+
+@media screen and (max-width: 350px) {
+    #about {
+        height: 220vh;
+    }
+}
 /* about */
 
 
@@ -272,7 +278,7 @@
 
 #services h3 {
     width: 130px;
-    padding-top: 130px;
+    padding-top: 80px;
     color: white;
     border-bottom: 2px solid #ff9900;
 }
@@ -303,6 +309,12 @@
 @media screen and (max-width: 767px) {
     #services {
         height: 160vh;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #services {
+        height: 170vh;
     }
 }
 
@@ -372,7 +384,7 @@
 
 @media screen and (max-width: 324px) {
     #resume{
-        height: 200vh;
+        height: 210vh;
     }
 }
 
@@ -424,13 +436,13 @@
 
 @media screen and (max-width: 460px) {
     #portfolio {
-        height: 260vh;
+        height: 265vh;
     }
 }
 
 @media screen and (max-width: 380px) {
     #portfolio {
-        height: 235vh;
+        height: 275vh;
     }
 }
 
@@ -467,7 +479,7 @@
     color: white;
     border-bottom: 2px solid #ff9900;
     width: 210px;
-    padding-top: 100px;
+    padding-top: 65px;
 }
 
 #contact p {
@@ -560,6 +572,12 @@
 @media screen and (max-width:767px) {
     #contact {
         height: 160vh;
+    }
+}
+
+@media screen and (max-width:500px) {
+    #contact {
+        height: 190vh;
     }
 }
 
