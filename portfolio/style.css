@@ -226,7 +226,7 @@
     width: 160px;
     height: 38px;
     border-radius: 5px;
-    margin-top: 20px;
+    margin-top: 50px;
     background-color: white;
     border: none;
     color: black;
@@ -246,7 +246,7 @@
 
 @media screen and (max-width: 767px) {
     #about {
-        height: 150vh;
+        height: 220vh;
     }
 
     #about p {
@@ -256,7 +256,7 @@
 
 @media screen and (max-width: 500px) {
     #about {
-        height: 120vh;
+        height: 230vh;
     }
 }
 /* about */
@@ -302,7 +302,7 @@
 
 @media screen and (max-width: 767px) {
     #services {
-        height: 120vh;
+        height: 160vh;
     }
 }
 
@@ -360,13 +360,13 @@
 
 @media screen and (max-width: 767px) {
     #resume{
-        height: 137vh;
+        height: 165vh;
     }
 }
 
 @media screen and (max-width: 440px) {
     #resume{
-        height: 140vh;
+        height: 170vh;
     }
 }
 
@@ -417,32 +417,32 @@
 
 @media screen and (max-width: 770px) {
     #portfolio {
-        height: 255vh;
+        height: 340vh;
     }
 
 }
 
 @media screen and (max-width: 460px) {
     #portfolio {
-        height: 220vh;
+        height: 260vh;
     }
 }
 
 @media screen and (max-width: 380px) {
     #portfolio {
-        height: 210vh;
+        height: 235vh;
     }
 }
 
 @media screen and (max-width: 312px) {
     #portfolio {
-        height: 200vh;
+        height: 230vh;
     }
 }
 
 @media screen and (max-width: 300px) {
     #portfolio {
-        height: 190vh;
+        height: 220vh;
     }
 }
 
@@ -559,7 +559,7 @@
 
 @media screen and (max-width:767px) {
     #contact {
-        height: 130vh;
+        height: 160vh;
     }
 }
 
